@@ -1,9 +1,6 @@
 # Awesome-Multimodal-in-3D
 A comprehensive surevy on Multimodal Models in 3D
 
-# Awesome-Multimodal-in-3D
-A comprehensive surevy on Multimodal Models in 3D
-
 <!-- <font size=5><center><b> Table of Contents </b> </center></font> -->
 ## Table of Contents
 
