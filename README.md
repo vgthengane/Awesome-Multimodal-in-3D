@@ -32,7 +32,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[CLIP-Sculptor: Zero-Shot Generation of High-Fidelity and Diverse Shapes from Natural Language](https://arxiv.org/abs/2211.01427) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2211.01427) | nan | nan | 2022 |
 |[SINC: Spatial Composition of 3D Human Motions for Simultaneous Action Generation](http://arxiv.org/abs/2304.10417) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2304.10417) | nan | nan | 2023 |
 |[Make-An-Animation: Large-Scale Text-conditional 3D Human Motion Generation](https://openaccess.thecvf.com/content/ICCV2023/html/Azadi_Make-An-Animation_Large-Scale_Text-conditional_3D_Human_Motion_Generation_ICCV_2023_paper) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/ICCV2023/html/Azadi_Make-An-Animation_Large-Scale_Text-conditional_3D_Human_Motion_Generation_ICCV_2023_paper) | nan | nan | 2023 |
@@ -112,7 +112,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[CrossPoint: Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud Understanding](https://ieeexplore.ieee.org/document/9878878) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/9878878) | nan | nan | 2022 |
 |[Grounding Pretrained Features in 3D Representations](https://openreview.net/forum?id=Lx7trKCpn6a) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openreview.net/forum?id=Lx7trKCpn6a) | nan | nan | 2023 |
 |[MedBLIP: Bootstrapping Language-Image Pre-training from 3D Medical Images and Texts](http://arxiv.org/abs/2305.10799) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2305.10799) | nan | nan | 2023 |
@@ -140,7 +140,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[ClipFace: Text-guided Editing of Textured 3D Morphable Models](https://dl.acm.org/doi/10.1145/3588432.3591566) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3588432.3591566) | nan | nan | 2023 |
 |[CompoNeRF: Text-guided Multi-object Compositional NeRF with Editable 3D Scene Layout](http://arxiv.org/abs/2303.13843) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2303.13843) | nan | nan | 2023 |
 |[Volumetric Disentanglement for 3D Scene Manipulation](http://arxiv.org/abs/2206.02776) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2206.02776) | nan | nan | 2022 |
@@ -157,7 +157,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers](https://ieeexplore.ieee.org/document/9879824/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/9879824/) | nan | nan | 2022 |
 |[Omni3D: A Large Benchmark and Model for 3D Object Detection in the Wild](http://arxiv.org/abs/2207.10660) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2207.10660) | nan | nan | 2023 |
 |[HRFuser: A Multi-resolution Sensor Fusion Architecture for 2D Object Detection](http://arxiv.org/abs/2206.15157) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2206.15157) | nan | nan | 2023 |
@@ -212,7 +212,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[A Simple and Robust Framework for Cross-Modality Medical Image Segmentation applied to Vision Transformers](http://arxiv.org/abs/2310.05572) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2310.05572) | nan | nan | 2023 |
 |[MoPA: Multi-Modal Prior Aided Domain Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/2309.11839) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2309.11839) | nan | nan | 2023 |
 |[Multi-Modal Continual Test-Time Adaptation for 3D Semantic Segmentation](http://arxiv.org/abs/2303.10457) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2303.10457) | nan | nan | 2023 |
@@ -251,7 +251,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[3D Multi-Object Tracking Using Graph Neural Networks with Cross-Edge Modality Attention](http://arxiv.org/abs/2203.10926) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2203.10926) | nan | nan | 2022 |
 |[LATTE: LAnguage Trajectory TransformEr](http://arxiv.org/abs/2208.02918) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2208.02918) | nan | nan | 2022 |
 |[3DMOTFormer: Graph Transformer for Online 3D Multi-Object Tracking](http://arxiv.org/abs/2308.06635) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.06635) | nan | nan | 2023 |
@@ -266,7 +266,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[Self-Supervised Learning for Multimodal Non-Rigid 3D Shape Matching](http://arxiv.org/abs/2303.10971) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2303.10971) | nan | nan | 2023 |
 
 
@@ -277,7 +277,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[CoDA: Collaborative Novel Box Discovery and Cross-modal Alignment for Open-vocabulary 3D Object Detection](http://arxiv.org/abs/2310.02960) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2310.02960) | nan | nan | 2023 |
 
 
@@ -288,7 +288,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[Complementary Pseudo Multimodal Feature for Point Cloud Anomaly Detection](http://arxiv.org/abs/2303.13194) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2303.13194) | nan | nan | 2023 |
 |[EasyNet: An Easy Network for 3D Industrial Anomaly Detection](http://arxiv.org/abs/2307.13925) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2307.13925) | nan | nan | 2023 |
 
@@ -300,7 +300,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[UniT3D: A Unified Transformer for 3D Dense Captioning and Visual Grounding](http://arxiv.org/abs/2212.00836) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2212.00836) | nan | nan | 2022 |
 |[Learning Point-Language Hierarchical Alignment for 3D Visual Grounding](https://www.semanticscholar.org/paper/Learning-Point-Language-Hierarchical-Alignment-for-Chen-Luo/c4abd21df3ca0d7a7b59516fb7b6502c16edeec1) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.semanticscholar.org/paper/Learning-Point-Language-Hierarchical-Alignment-for-Chen-Luo/c4abd21df3ca0d7a7b59516fb7b6502c16edeec1) | nan | nan | 2022 |
 |[ViewRefer: Grasp the Multi-view Knowledge for 3D Visual Grounding with GPT and Prototype Guidance](http://arxiv.org/abs/2303.16894) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2303.16894) | nan | nan | 2023 |
@@ -318,7 +318,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[AGG-Net: Attention Guided Gated-convolutional Network for Depth Image Completion](http://arxiv.org/abs/2309.01624) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2309.01624) | nan | nan | 2023 |
 
 
@@ -329,7 +329,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[TeSTNeRF: Text-Driven 3D Style Transfer via Cross-Modal Learning](https://www.ijcai.org/proceedings/2023/642) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.ijcai.org/proceedings/2023/642) | nan | nan | 2023 |
 |[TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition](http://arxiv.org/abs/2210.11277) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2210.11277) | nan | nan | 2022 |
 |[HyperStyle3D: Text-Guided 3D Portrait Stylization via Hypernetworks](http://arxiv.org/abs/2304.09463) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2304.09463) | nan | nan | 2023 |
@@ -343,7 +343,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[ZeroPose: CAD-Model-based Zero-Shot Pose Estimation](http://arxiv.org/abs/2305.17934) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2305.17934) | nan | nan | 2023 |
 |[Weakly Supervised 3D Multi-person Pose Estimation for Large-scale Scenes based on Monocular Camera and Single LiDAR](http://arxiv.org/abs/2211.16951) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2211.16951) | nan | nan | 2022 |
 |[PoseScript: 3D Human Poses from Natural Language](http://arxiv.org/abs/2210.11795) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2210.11795) | nan | nan | 2022 |
@@ -363,7 +363,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[Towards Label-free Scene Understanding by Vision Foundation Models](http://arxiv.org/abs/2306.03899) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2306.03899) | nan | nan | 2023 |
 |[CLIP2Scene: Towards Label-efficient 3D Scene Understanding by CLIP](https://ieeexplore.ieee.org/document/10204547/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/10204547/) | nan | nan | 2023 |
 |[Semantics-guided Transformer-based Sensor Fusion for Improved Waypoint Prediction](http://arxiv.org/abs/2308.02126) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2308.02126) | nan | nan | 2023 |
@@ -380,7 +380,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[PolarNet: 3D Point Clouds for Language-Guided Robotic Manipulation](http://arxiv.org/abs/2309.15596) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2309.15596) | nan | nan | 2023 |
 |[TextDeformer: Geometry Manipulation using Text Guidance](http://arxiv.org/abs/2304.13348) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2304.13348) | nan | nan | 2023 |
 |[Act3D: 3D Feature Field Transformers for Multi-Task Robotic Manipulation](https://www.semanticscholar.org/paper/Act3D%3A-3D-Feature-Field-Transformers-for-Multi-Task-Gervet-Xian/7275318008bad0c141d3516a25903b37014590a1) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://www.semanticscholar.org/paper/Act3D%3A-3D-Feature-Field-Transformers-for-Multi-Task-Gervet-Xian/7275318008bad0c141d3516a25903b37014590a1) | nan | nan | 2023 |
@@ -393,7 +393,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[Democratising 2D Sketch to 3D Shape Retrieval Through Pivoting](https://openaccess.thecvf.com/content/ICCV2023/html/Chowdhury_Democratising_2D_Sketch_to_3D_Shape_Retrieval_Through_Pivoting_ICCV_2023_paper.html) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/ICCV2023/html/Chowdhury_Democratising_2D_Sketch_to_3D_Shape_Retrieval_Through_Pivoting_ICCV_2023_paper.html) | nan | nan | 2023 |
 |[RONO: Robust Discriminative Learning With Noisy Labels for 2D-3D Cross-Modal Retrieval](https://openaccess.thecvf.com/content/CVPR2023/html/Feng_RONO_Robust_Discriminative_Learning_With_Noisy_Labels_for_2D-3D_Cross-Modal_CVPR_2023_paper.html) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/CVPR2023/html/Feng_RONO_Robust_Discriminative_Learning_With_Noisy_Labels_for_2D-3D_Cross-Modal_CVPR_2023_paper.html) | nan | nan | 2023 |
 |[TextANIMAR: Text-based 3D Animal Fine-Grained Retrieval](http://arxiv.org/abs/2304.06053) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2304.06053) | nan | nan | 2023 |
@@ -409,7 +409,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[Multimodal Brain Disease Classification with Functional Interaction Learning from Single fMRI Volume](http://arxiv.org/abs/2208.03028) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2208.03028) | nan | nan | 2023 |
 
 
@@ -420,7 +420,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[3D Highlighter: Localizing Regions on 3D Shapes via Text Descriptions](https://ieeexplore.ieee.org/document/10205282/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/10205282/) | nan | nan | 2023 |
 |[UnLoc: A Universal Localization Method for Autonomous Vehicles using LiDAR, Radar and/or Camera Input](http://arxiv.org/abs/2307.00741) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2307.00741) | nan | nan | 2023 |
 |[WildRefer: 3D Object Localization in Large-scale Dynamic Scenes with Multi-modal Visual Data and Natural Language](http://arxiv.org/abs/2304.05645) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2304.05645) | nan | nan | 2023 |
@@ -433,7 +433,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[Multi-CLIP: Contrastive Vision-Language Pre-training for Question Answering tasks in 3D Scenes](http://arxiv.org/abs/2306.02329) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2306.02329) | nan | nan | 2023 |
 
 
@@ -444,7 +444,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[3D Spatial Multimodal Knowledge Accumulation for Scene Graph Prediction in Point Cloud](https://ieeexplore.ieee.org/document/10204093/) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/10204093/) | nan | nan | 2023 |
 
 
@@ -455,7 +455,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[Towards Zero-Shot Scale-Aware Monocular Depth Estimation](http://arxiv.org/abs/2306.17253) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2306.17253) | nan | nan | 2023 |
 
 
@@ -466,7 +466,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[ImageBind-LLM: Multi-modality Instruction Tuning](http://arxiv.org/abs/2309.03905) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2309.03905) | nan | nan | 2023 |
 
 
@@ -477,7 +477,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[LiCamGait: Gait Recognition in the Wild by Using LiDAR and Camera Multi-modal Visual Sensors](http://arxiv.org/abs/2211.12371) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2211.12371) | nan | nan | 2022 |
 |[LATFormer: Locality-Aware Point-View Fusion Transformer for 3D Shape Recognition](http://arxiv.org/abs/2109.01291) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2109.01291) | nan | nan | 2023 |
 |[Cross-Modal Learning with 3D Deformable Attention for Action Recognition](http://arxiv.org/abs/2212.05638) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2212.05638) | nan | nan | 2023 |
@@ -491,7 +491,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[Speech4Mesh: Speech-Assisted Monocular 3D Facial Reconstruction for Speech-Driven 3D Facial Animation](https://openaccess.thecvf.com/content/ICCV2023/html/He_Speech4Mesh_Speech-Assisted_Monocular_3D_Facial_Reconstruction_for_Speech-Driven_3D_Facial_ICCV_2023_paper) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://openaccess.thecvf.com/content/ICCV2023/html/He_Speech4Mesh_Speech-Assisted_Monocular_3D_Facial_Reconstruction_for_Speech-Driven_3D_Facial_ICCV_2023_paper) | nan | nan | 2023 |
 |[Zero-1-to-3: Zero-shot One Image to 3D Object](http://arxiv.org/abs/2303.11328) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2303.11328) | nan | nan | 2023 |
 
@@ -503,7 +503,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[Style-aware Augmented Virtuality Embeddings (SAVE)](https://ieeexplore.ieee.org/document/10108488) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://ieeexplore.ieee.org/document/10108488) | nan | nan | 2023 |
 
 
@@ -514,7 +514,7 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[M$^{3}$3D: Learning 3D priors using Multi-Modal Masked Autoencoders for 2D image and video understanding](http://arxiv.org/abs/2309.15313) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2309.15313) | nan | nan | 2023 |
 
 
@@ -525,5 +525,5 @@ A comprehensive surevy on Multimodal Models in 3D
 
 
 | Title | arXiv | Github | WebSite | Pub. & Date |
-|:-----:|:-----:|:-----:|:-----:|:-----:|
+|-----|:-----:|:-----:|:-----:|:-----:|
 |[Scalable 3D Captioning with Pretrained Models](http://arxiv.org/abs/2306.07279) | [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](http://arxiv.org/abs/2306.07279) | nan | nan | 2023 |
